@@ -52,20 +52,6 @@ https://hwmonitor.calipertools.com/
 
 ---
 
-## SEO 说明
-
-本项目围绕以下关键词进行优化：
-
-- HWMonitor 下载  
-- 硬件监控工具  
-- CPU GPU 温度监控  
-- 电压风扇监控  
-- 免费硬件监控软件  
-
-页面结构简洁，适合搜索引擎抓取和长期维护。
-
----
-
 ## 免责声明
 
 本项目仅供学习与研究用途。  
@@ -131,20 +117,6 @@ Download link:
 - Cooling and temperature control  
 - DIY hardware testing and diagnostics  
 - Educational or lab environment monitoring  
-
----
-
-## SEO Focus
-
-This project emphasizes the following keywords:
-
-- HWMonitor download  
-- Hardware monitoring tool  
-- CPU GPU temperature monitoring  
-- Voltage and fan monitoring  
-- Free hardware monitoring software  
-
-Structured for fast loading and search engine indexing.
 
 ---
 
